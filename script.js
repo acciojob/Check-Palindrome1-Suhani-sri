@@ -14,5 +14,5 @@ const string = str.toLowerCase();
     }
     return true;
 }
-}
+
 module.exports = palindrome
